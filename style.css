@@ -1,0 +1,40 @@
+html {
+    font-family: sans-serif;
+    overflow: scroll;
+}
+
+div, button {
+    height: 40px;
+}
+
+.bilabial {
+    background-color: red;
+}
+
+.labiodental {
+    background-color: orange;
+}
+
+.interdental {
+    background-color: yellow
+}
+
+.alveolar {
+    background-color: lawngreen;
+}
+
+.alveopalatal {
+    background-color: aqua;
+}
+
+.palatal {
+    background-color: lightblue;
+}
+
+.velar {
+    background-color: thistle;
+}
+
+.glottal {
+    background-color: violet;
+}
