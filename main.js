@@ -45,6 +45,10 @@ function speak() {
 document.body.onclick = function() {
     placeholder.innerHTML = "Ready to hear how you are feeling today.";
     recognition.start();
+
+    // TODO: #17 Make mobile-friendly 
+
+    // TODO: #18 Implement flow chart
 }
 
 // Receive result and speak it 
